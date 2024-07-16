@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello everyone
-=======
-the
->>>>>>> r2
+hello
